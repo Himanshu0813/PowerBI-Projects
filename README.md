@@ -1,1 +1,1 @@
-# PowerBI-Projects
+This dataset contains information about various Hollywood movies, focusing on their profitability, audience scores, critical reception, and worldwide gross earnings. It spans a range of genres and years, providing insights into the financial success and audience reception of each film.
